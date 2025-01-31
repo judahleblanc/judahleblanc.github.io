@@ -87,7 +87,7 @@ h2, h3 {
   }
   
   #portfolio li {
-    background: #ede4e4;
+    background: #eae8e8;
     padding: 10px;
     border-radius: 10px;
     margin-bottom: 10px;
@@ -99,7 +99,7 @@ h2, h3 {
   
   #portfolio a {
     text-decoration: none;
-    color: #454545;
+    color: #0e0b0b;
   }
 
   /* responsive web design */
